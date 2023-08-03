@@ -1,0 +1,31 @@
+.container {
+  height: 1500px;
+  width: 1000px;
+  background-color: blueviolet;
+  margin: 0 auto;
+  text-align: center;
+}
+input {
+  width: 90%;
+  padding: 20px;
+  margin-top: 5px;
+}
+button {
+  margin-top: 5px;
+  width: 90%;
+  height: 40px;
+  background-color: aqua;
+  color: azure;
+  cursor: pointer;
+}
+table {
+  width: 100%;
+}
+table,
+th,
+td {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid azure;
+  border-collapse: collapse;
+}
